@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1706737550569,
+      "tag": "0000_stormy_blonde_phantom",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1706739704830,
+      "tag": "0001_woozy_morph",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1706909642404,
+      "tag": "0002_fresh_wind_dancer",
+      "breakpoints": true
+    }
+  ]
+}
